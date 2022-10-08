@@ -1,5 +1,3 @@
-## This branch will be switching from Eris to Discord.JS and may not be stable yet, Please be cautious when using this!
-
 # Modmail for Discord
 Modmail Bot is a bot for [Discord](https://discord.com/) that allows users to DM the bot to contact the server's moderators/staff
 without messaging them individually or pinging them publically on the server.
@@ -28,3 +26,4 @@ If you need help with setting up the bot or would like to discuss other things r
 
 👉 **[Join support server](https://discord.gg/vRuhG9R)**
 
+## This bot is using Discord.JS instead of Eris, Things may be broken

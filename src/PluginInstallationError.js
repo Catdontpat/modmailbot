@@ -1,5 +1,5 @@
 class PluginInstallationError extends Error {}
 
 module.exports = {
-  PluginInstallationError,
+    PluginInstallationError,
 };
