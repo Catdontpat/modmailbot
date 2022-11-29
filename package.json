@@ -9,6 +9,7 @@
     "helmet": "^6.0.0",
     "humanize-duration": "^3.27.3",
     "json-schema-to-jsdoc": "^1.1.0",
+    "knex": "^2.3.0",
     "moment": "^2.29.4",
     "mv": "^2.1.1",
     "public-ip": "^6.0.1",
